@@ -7,10 +7,12 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.auraclone.R;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,12 +22,48 @@ public final class RemoteFragmentBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView remotePlaceholder;
+  public final BottomNavigationView bottomNav;
+
+  @NonNull
+  public final CardView helpSectionCard;
+
+  @NonNull
+  public final TextView helpSectionDescription;
+
+  @NonNull
+  public final TextView helpSectionItemGuide;
+
+  @NonNull
+  public final TextView helpSectionItemManual;
+
+  @NonNull
+  public final TextView helpSectionItemQna;
+
+  @NonNull
+  public final TextView helpSectionTitle;
+
+  @NonNull
+  public final TextView tvRemoteControl;
+
+  @NonNull
+  public final TextView tvTitle;
 
   private RemoteFragmentBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView remotePlaceholder) {
+      @NonNull BottomNavigationView bottomNav, @NonNull CardView helpSectionCard,
+      @NonNull TextView helpSectionDescription, @NonNull TextView helpSectionItemGuide,
+      @NonNull TextView helpSectionItemManual, @NonNull TextView helpSectionItemQna,
+      @NonNull TextView helpSectionTitle, @NonNull TextView tvRemoteControl,
+      @NonNull TextView tvTitle) {
     this.rootView = rootView;
-    this.remotePlaceholder = remotePlaceholder;
+    this.bottomNav = bottomNav;
+    this.helpSectionCard = helpSectionCard;
+    this.helpSectionDescription = helpSectionDescription;
+    this.helpSectionItemGuide = helpSectionItemGuide;
+    this.helpSectionItemManual = helpSectionItemManual;
+    this.helpSectionItemQna = helpSectionItemQna;
+    this.helpSectionTitle = helpSectionTitle;
+    this.tvRemoteControl = tvRemoteControl;
+    this.tvTitle = tvTitle;
   }
 
   @Override
@@ -55,13 +93,63 @@ public final class RemoteFragmentBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.remote_placeholder;
-      TextView remotePlaceholder = ViewBindings.findChildViewById(rootView, id);
-      if (remotePlaceholder == null) {
+      id = R.id.bottom_nav;
+      BottomNavigationView bottomNav = ViewBindings.findChildViewById(rootView, id);
+      if (bottomNav == null) {
         break missingId;
       }
 
-      return new RemoteFragmentBinding((ConstraintLayout) rootView, remotePlaceholder);
+      id = R.id.help_section_card;
+      CardView helpSectionCard = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionCard == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_description;
+      TextView helpSectionDescription = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionDescription == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_guide;
+      TextView helpSectionItemGuide = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemGuide == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_manual;
+      TextView helpSectionItemManual = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemManual == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_qna;
+      TextView helpSectionItemQna = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemQna == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_title;
+      TextView helpSectionTitle = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_remote_control;
+      TextView tvRemoteControl = ViewBindings.findChildViewById(rootView, id);
+      if (tvRemoteControl == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_title;
+      TextView tvTitle = ViewBindings.findChildViewById(rootView, id);
+      if (tvTitle == null) {
+        break missingId;
+      }
+
+      return new RemoteFragmentBinding((ConstraintLayout) rootView, bottomNav, helpSectionCard,
+          helpSectionDescription, helpSectionItemGuide, helpSectionItemManual, helpSectionItemQna,
+          helpSectionTitle, tvRemoteControl, tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

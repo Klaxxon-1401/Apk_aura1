@@ -40,6 +40,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.auraclone.ui.HomeActivity"
+            android:exported="false"
+            android:launchMode="singleTask" >
+
             <!-- USB Device Attached Intent -->
             <intent-filter>
                 <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
@@ -49,6 +55,18 @@
                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
                 android:resource="@xml/device_filter" />
         </activity>
+        <activity
+            android:name="com.auraclone.ui.BrandListActivity"
+            android:exported="false"
+            android:parentActivityName="com.auraclone.ui.HomeActivity" />
+        <activity
+            android:name="com.auraclone.ui.DeviceListActivity"
+            android:exported="false"
+            android:parentActivityName="com.auraclone.ui.BrandListActivity" />
+        <activity
+            android:name="com.auraclone.ui.RemoteControlActivity"
+            android:exported="false"
+            android:parentActivityName="com.auraclone.ui.DeviceListActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

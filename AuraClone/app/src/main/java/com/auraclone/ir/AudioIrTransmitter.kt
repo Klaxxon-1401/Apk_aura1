@@ -3,9 +3,21 @@ package com.auraclone.ir
 import android.media.AudioFormat
 import android.media.AudioManager
 import android.media.AudioTrack
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.withContext
 
+/**
+ * Irdroid-style passive audio IR blaster transmitter
+ * Modulates IR signal as audio that can be played through audio jack
+ * Compatible with passive IR blasters that convert audio to IR signals
+ */
 class AudioIrTransmitter : IrTransmitter {
     private val sampleRate = 44100
+    private var currentTrack: AudioTrack? = null
+    private val scope = CoroutineScope(Dispatchers.IO)
 
     override fun hasIrEmitter(): Boolean {
         // Assume audio jack is always available for potential IR blaster
@@ -13,20 +25,60 @@ class AudioIrTransmitter : IrTransmitter {
     }
 
     override fun transmit(frequency: Int, pattern: IntArray) {
-        val buffer = generateAudioBuffer(frequency, pattern)
-        val audioTrack = AudioTrack(
-            AudioManager.STREAM_MUSIC,
-            sampleRate,
-            AudioFormat.CHANNEL_OUT_STEREO, // Stereo for better compatibility with some blasters
-            AudioFormat.ENCODING_PCM_16BIT,
-            buffer.size * 2,
-            AudioTrack.MODE_STATIC
-        )
+        // Stop any currently playing transmission
+        currentTrack?.stop()
+        currentTrack?.release()
+        
+        scope.launch {
+            try {
+                val buffer = generateAudioBuffer(frequency, pattern)
+                val audioTrack = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.M) {
+                    AudioTrack.Builder()
+                        .setAudioAttributes(
+                            android.media.AudioAttributes.Builder()
+                                .setUsage(android.media.AudioAttributes.USAGE_MEDIA)
+                                .setContentType(android.media.AudioAttributes.CONTENT_TYPE_MUSIC)
+                                .build()
+                        )
+                        .setAudioFormat(
+                            android.media.AudioFormat.Builder()
+                                .setSampleRate(sampleRate)
+                                .setEncoding(AudioFormat.ENCODING_PCM_16BIT)
+                                .setChannelMask(AudioFormat.CHANNEL_OUT_STEREO)
+                                .build()
+                        )
+                        .setBufferSizeInBytes(buffer.size * 2)
+                        .setTransferMode(AudioTrack.MODE_STATIC)
+                        .build()
+                } else {
+                    // Fallback for older Android versions
+                    AudioTrack(
+                        AudioManager.STREAM_MUSIC,
+                        sampleRate,
+                        AudioFormat.CHANNEL_OUT_STEREO,
+                        AudioFormat.ENCODING_PCM_16BIT,
+                        buffer.size * 2,
+                        AudioTrack.MODE_STATIC
+                    )
+                }
 
-        audioTrack.write(buffer, 0, buffer.size)
-        audioTrack.play()
-        // Release after playback (in a real app, handle this better to avoid blocking/leaks)
-        // For now, we let it play out.
+                currentTrack = audioTrack
+                audioTrack.write(buffer, 0, buffer.size)
+                audioTrack.play()
+                
+                // Wait for playback to complete, then release
+                val durationMs = (buffer.size * 1000) / (sampleRate * 2)
+                delay(durationMs.toLong())
+                
+                audioTrack.stop()
+                audioTrack.release()
+                if (currentTrack == audioTrack) {
+                    currentTrack = null
+                }
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
     }
 
     private fun generateAudioBuffer(frequency: Int, pattern: IntArray): ShortArray {

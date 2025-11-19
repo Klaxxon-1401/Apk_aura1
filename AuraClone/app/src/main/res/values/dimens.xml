@@ -4,4 +4,8 @@
     <dimen name="ksw_md_thumb_shadow_inset">2dp</dimen>
     <dimen name="ksw_md_thumb_shadow_inset_bottom">2dp</dimen>
     <dimen name="ksw_md_thumb_solid_inset">2dp</dimen>
+
+    <!-- Legacy layout support -->
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
 </resources>

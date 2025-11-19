@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\Devan\.gradle\caches\8.13\transforms\1b10b98635001a8d80e59e9070cd09f5\transformed\jetified-viewbinding-8.13.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Devan\.gradle\caches\8.13\transforms\f0d06400df11def54af85a1170cc0520\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -71,8 +71,8 @@ ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:8:5-62
 	android:name
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:8:19-59
 application
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-36:19
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-36:19
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-57:19
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-57:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Devan\.gradle\caches\8.13\transforms\f0d06400df11def54af85a1170cc0520\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -112,7 +112,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Devan\.gradle\cach
 	android:dataExtractionRules
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:12:9-65
 activity#com.auraclone.MainActivity
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:21:9-35:20
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:21:9-28:20
 	android:exported
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
@@ -127,18 +127,50 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.auraclone.ui.HomeActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:30:9-41:20
+	android:launchMode
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:31:13-44
 intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:29:13-31:29
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:35:13-37:29
 action#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:30:17-90
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:36:17-90
 	android:name
-		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:30:25-87
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:36:25-87
 meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:32:13-34:57
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:38:13-40:57
 	android:resource
-		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:34:17-54
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:40:17-54
 	android:name
-		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:33:17-79
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:39:17-79
+activity#com.auraclone.ui.BrandListActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:43:9-46:61
+	android:parentActivityName
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:46:13-58
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:44:13-49
+activity#com.auraclone.ui.DeviceListActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:48:9-51:66
+	android:parentActivityName
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:51:13-63
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:49:13-50
+activity#com.auraclone.ui.RemoteControlActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:53:9-56:67
+	android:parentActivityName
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:56:13-64
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:54:13-53
 uses-sdk
 INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml

@@ -25,6 +25,12 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ui.HomeActivity"
+            android:exported="false"
+            android:launchMode="singleTask">
             <!-- USB Device Attached Intent -->
             <intent-filter>
                 <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
@@ -33,6 +39,21 @@
                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
                 android:resource="@xml/device_filter" />
         </activity>
+        
+        <activity
+            android:name=".ui.BrandListActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.HomeActivity" />
+        
+        <activity
+            android:name=".ui.DeviceListActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.BrandListActivity" />
+        
+        <activity
+            android:name=".ui.RemoteControlActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.DeviceListActivity" />
     </application>
 
 </manifest>

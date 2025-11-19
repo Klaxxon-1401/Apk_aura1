@@ -55,4 +55,8 @@ dependencies {
     
     // Lifecycle - provides lifecycleScope
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
+    
+    // Testing
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
 }

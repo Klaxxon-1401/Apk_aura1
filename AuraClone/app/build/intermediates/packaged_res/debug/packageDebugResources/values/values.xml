@@ -32,6 +32,8 @@
     <color name="teal_300">#F00</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
     <dimen name="ksw_md_thumb_ripple_size">2dp</dimen>
     <dimen name="ksw_md_thumb_shadow_inset">2dp</dimen>
     <dimen name="ksw_md_thumb_shadow_inset_bottom">2dp</dimen>
