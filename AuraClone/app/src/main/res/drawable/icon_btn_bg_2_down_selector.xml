@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_pressed="true" android:drawable="@mipmap/icon_btn_bg_2_s_down" />
-    <item android:state_selected="true" android:drawable="@mipmap/icon_btn_bg_2_s_down" />
-    <item android:drawable="@mipmap/icon_no" />
+    <item android:state_pressed="true" android:drawable="@mipmap/ic_launcher" />
+    <item android:state_selected="true" android:drawable="@mipmap/ic_launcher" />
+    <item android:drawable="@mipmap/ic_launcher" />
 </selector>

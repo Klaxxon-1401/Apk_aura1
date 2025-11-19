@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_enabled="false" android:drawable="@mipmap/icon_btn_ac_bg2_wind_fix_2x_d" />
-    <item android:state_selected="true" android:drawable="@mipmap/icon_btn_ac_bg2_wind_fix_2x_s" />
-    <item android:state_pressed="true" android:drawable="@mipmap/icon_btn_ac_bg2_wind_fix_2x_h" />
-    <item android:drawable="@mipmap/icon_btn_ac_bg2_wind_fix_2x" />
+    <item android:state_enabled="false" android:drawable="@mipmap/ic_launcher" />
+    <item android:state_selected="true" android:drawable="@mipmap/ic_launcher" />
+    <item android:state_pressed="true" android:drawable="@mipmap/ic_launcher" />
+    <item android:drawable="@mipmap/ic_launcher" />
 </selector>

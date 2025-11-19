@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="aura_gradient_end">#F00</color>
+    <color name="aura_gradient_mid">#F00</color>
+    <color name="aura_gradient_start">#F00</color>
+    <color name="dark_orange">#F00</color>
+    <color name="orange">#F00</color>
+    <color name="btn_gray">#F00</color>
+    <color name="dark_black">#F00</color>
+    <color name="black_title">#F00</color>
+    <color name="color_FA9">#F00</color>
+    <color name="color_E35">#F00</color>
+    <color name="light_frame">#F00</color>
+    <color name="teal_300">#F00</color>
 </resources>
