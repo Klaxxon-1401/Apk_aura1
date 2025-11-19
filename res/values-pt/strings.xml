@@ -144,7 +144,7 @@
     <string name="air_supply">Abastecimento de ar</string>
     <string name="alert_dialog_title">Dica</string>
     <string name="alert_tips_title">prompt</string>
-    <string name="app_name">Ocrustar</string>
+    <string name="app_name">Aura IR</string>
     <string name="audio_tip">Tips for using</string>
     <string name="audio_tip_content">The remote control interface can display the voice switch icon when this function is turned on. When the voice is turned on, you can say [turn on the air conditioner] [turn off the air conditioner] [cooling mode] and other commands. For more commands, please check the manual.</string>
     <string name="auto_fail_1">1. The remote control head is not aligned with the air conditioner. Adjust the Angle of the remote control head</string>
@@ -288,7 +288,7 @@
     <string name="elk_learning_new_tips">4. Se o processo de aprendizagem falhar ou não houver entrada, reconecte e desconecte o dispositivo de hardware.</string>
     <string name="elk_learning_other_content">Digite o nome do botão do controle remoto que deseja copiar</string>
     <string name="elk_learning_other_title">Nome do botão de controle remoto infravermelho</string>
-    <string name="elk_logo_title">OCRUSTAR</string>
+    <string name="elk_logo_title">Aura IR</string>
     <string name="elk_lt">lituano</string>
     <string name="elk_lv">letão</string>
     <string name="elk_me_auto_rotation">Rotação automática</string>
