@@ -1,20 +1,30 @@
 R_DEF: Internal format may change without notice
 local
+attr indexTextColor
+attr indexTextSize
+attr selectTextColor
 color aura_gradient_end
 color aura_gradient_mid
 color aura_gradient_start
 color black
 color black_title
 color btn_gray
+color btn_light_gray
 color color_E35
 color color_FA9
 color dark_black
 color dark_orange
+color ksw_md_ripple_checked
+color ksw_md_ripple_normal
+color ksw_md_solid_checked
 color ksw_md_solid_checked_disable
 color ksw_md_solid_disable
+color ksw_md_solid_normal
 color ksw_md_solid_shadow
 color light_frame
 color orange
+color pickerview_timebtn_nor
+color pickerview_timebtn_pre
 color purple_200
 color purple_500
 color purple_700
@@ -266,6 +276,7 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id brand_sc_result
 id fm_content
+id guide_home_ok
 id guide_home_page
 id help_section_card
 id help_section_description
@@ -283,6 +294,9 @@ id remote_placeholder
 id rv_brand_list
 id status_text
 id test_button
+id title_one
+id title_three
+id title_two
 id tv_home
 id tv_loading
 id tv_me
@@ -296,10 +310,12 @@ id v_bottom_me
 id v_bottom_remote
 id v_title_line
 layout activity_brand_list
+layout activity_guide_home
 layout activity_home
 layout activity_main
 layout remote_fragment
 mipmap ac_4l_2x
+mipmap guide_home_bg
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap icon_btn_ac_bg2_wind_fix_2x_d
@@ -340,6 +356,8 @@ mipmap icon_btn_return
 mipmap icon_btn_return_n
 mipmap icon_chevron_left
 mipmap pic_loading_bg_2x
+mipmap pic_loading_dh_2x
+mipmap pic_loading_logo_2x
 mipmap timer_set_s_2x
 mipmap timer_set_s_p_2x
 string KeyType_Custom
@@ -923,6 +941,7 @@ string xpopup_save
 string you_speak
 string zoom
 style Theme.AuraClone
+styleable IndexBar indexTextColor indexTextSize selectTextColor
 xml backup_rules
 xml data_extraction_rules
 xml device_filter

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.auraclone.app-mergeDebugResources-26:/values-fr/values-fr.xml",
+            "outputFile": "com.auraclone.app-mergeDebugResources-30:/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Devan\\.gradle\\caches\\8.13\\transforms\\89a055363f9f678c796c50931336deaf\\transformed\\material-1.9.0\\res\\values-fr\\values-fr.xml",

@@ -26,7 +26,7 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final FrameLayout fmContent;
 
   @NonNull
-  public final View guideHomePage;
+  public final ActivityGuideHomeBinding guideHomePage;
 
   @NonNull
   public final LinearLayout helpSectionCard;
@@ -77,7 +77,7 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final View vBottomRemote;
 
   private ActivityHomeBinding(@NonNull ConstraintLayout rootView, @NonNull FrameLayout fmContent,
-      @NonNull View guideHomePage, @NonNull LinearLayout helpSectionCard,
+      @NonNull ActivityGuideHomeBinding guideHomePage, @NonNull LinearLayout helpSectionCard,
       @NonNull TextView helpSectionDescription, @NonNull TextView helpSectionItemGuide,
       @NonNull TextView helpSectionItemManual, @NonNull TextView helpSectionItemQna,
       @NonNull TextView helpSectionTitle, @NonNull ImageView ivHome, @NonNull ImageView ivMe,
@@ -143,6 +143,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       if (guideHomePage == null) {
         break missingId;
       }
+      ActivityGuideHomeBinding binding_guideHomePage = ActivityGuideHomeBinding.bind(guideHomePage);
 
       id = R.id.help_section_card;
       LinearLayout helpSectionCard = ViewBindings.findChildViewById(rootView, id);
@@ -240,7 +241,7 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityHomeBinding((ConstraintLayout) rootView, fmContent, guideHomePage,
+      return new ActivityHomeBinding((ConstraintLayout) rootView, fmContent, binding_guideHomePage,
           helpSectionCard, helpSectionDescription, helpSectionItemGuide, helpSectionItemManual,
           helpSectionItemQna, helpSectionTitle, ivHome, ivMe, ivRemote, tvHome, tvMe, tvRemote,
           vBottomHome, vBottomLine, vBottomMe, vBottomRemote);

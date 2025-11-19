@@ -42,16 +42,14 @@ class MainActivity : AppCompatActivity() {
                 val frequency = 38000
                 val pattern = intArrayOf(9000, 4500, 560, 560, 560, 1690, 560, 560, 560, 560)
                 
-                lifecycleScope.launch(Dispatchers.IO) {
+                lifecycleScope.launch {
                     try {
-                        irManager.transmit(frequency, pattern)
-                        withContext(Dispatchers.Main) {
-                            android.widget.Toast.makeText(this@MainActivity, "Signal Transmitted via $transmitterName", android.widget.Toast.LENGTH_SHORT).show()
+                        withContext(Dispatchers.IO) {
+                            irManager.transmit(frequency, pattern)
                         }
+                        android.widget.Toast.makeText(this@MainActivity, "Signal Transmitted via $transmitterName", android.widget.Toast.LENGTH_SHORT).show()
                     } catch (e: Exception) {
-                        withContext(Dispatchers.Main) {
-                            android.widget.Toast.makeText(this@MainActivity, "Error: ${e.message}", android.widget.Toast.LENGTH_LONG).show()
-                        }
+                        android.widget.Toast.makeText(this@MainActivity, "Error: ${e.message}", android.widget.Toast.LENGTH_LONG).show()
                     }
                 }
             }

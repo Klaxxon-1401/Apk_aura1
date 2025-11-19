@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <attr format="reference|color" name="indexTextColor"/>
+    <attr format="dimension" name="indexTextSize"/>
+    <attr format="reference|color" name="selectTextColor"/>
     <color name="aura_gradient_end">#F00</color>
     <color name="aura_gradient_mid">#F00</color>
     <color name="aura_gradient_start">#F00</color>
     <color name="black">#FF000000</color>
     <color name="black_title">#F00</color>
     <color name="btn_gray">#F00</color>
+    <color name="btn_light_gray">#ffbdd0e3</color>
     <color name="color_E35">#F00</color>
     <color name="color_FA9">#F00</color>
     <color name="dark_black">#F00</color>
     <color name="dark_orange">#F00</color>
+    <color name="ksw_md_ripple_checked">#33019285</color>
+    <color name="ksw_md_ripple_normal">#1e000000</color>
+    <color name="ksw_md_solid_checked">#ff019285</color>
     <color name="ksw_md_solid_checked_disable">#AAAAAA</color>
     <color name="ksw_md_solid_disable">#AAAAAA</color>
+    <color name="ksw_md_solid_normal">#ffececec</color>
     <color name="ksw_md_solid_shadow">#33000000</color>
     <color name="light_frame">#F00</color>
     <color name="orange">#F00</color>
+    <color name="pickerview_timebtn_nor">#ff057dff</color>
+    <color name="pickerview_timebtn_pre">#ffc2daf5</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -637,4 +647,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         
     </style>
+    <declare-styleable name="IndexBar">
+        <attr name="indexTextColor"/>
+        <attr name="indexTextSize"/>
+        <attr name="selectTextColor"/>
+    </declare-styleable>
 </resources>

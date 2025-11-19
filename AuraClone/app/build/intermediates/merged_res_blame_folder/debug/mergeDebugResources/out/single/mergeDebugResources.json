@@ -1,1162 +1,1178 @@
 [
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_set_no.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_set_no.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_menu_arrow_down_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_ac_4l_2x.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\ac_4l_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_forward.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_forward.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_seekbar_tick_mark_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_vector_test.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_vector_test.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_edit_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/edit_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_remote_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_remote_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_return_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_return_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ratingbar_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ratingbar_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_device_status_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/device_status_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_plus.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_plus.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_delete_normal.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_delete_normal.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_fan_clock.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_fan_clock.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_pic_loading_bg_2x.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\pic_loading_bg_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_vector_test.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_remote_diy_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_remote_diy_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_3_s.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_3_s.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_dialog_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_dialog_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_4_s.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_4_s.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_notification_icon_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_navigation_empty_icon.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\navigation_empty_icon.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_diy_item_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/diy_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_check_material_anim.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_check_material_anim.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_list_divider_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_list_divider_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_plus_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_plus_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_avd_show_password.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_guide_dialog_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_guide_dialog_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_item_background_holo_dark.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_stop_n.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_stop_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_box_set_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_box_set_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_reduce_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_reduce_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_test_custom_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/test_custom_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_keyboard_arrow_right_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_keyboard_arrow_right_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_bg_1_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_bg_1_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_half_black_36dp.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_reduce_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_reduce_n.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_return_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_return_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_search_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/search_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_box_back_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_box_back_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_gray_track.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_gray_track.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_bubble_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/bubble_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_seekbar_track_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ok_z_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ok_z_2x.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_timer_seleted_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_timer_seleted_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_ic_cancel.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_ic_cancel.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_half_black_16dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_pic_loading_bg_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/pic_loading_bg_2x.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_half_black_48dp.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_tooltip_frame_light.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_gray_track.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_gray_track.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_direction_2_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_direction_2_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_add_selected.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\add_selected.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_bg_1_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_bg_1_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_text_cursor_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_text_cursor_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\ic_launcher.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_connect_remote_bg_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_connect_remote_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_2_s.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_2_s.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_test_custom_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\test_custom_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_fan_clock_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_fan_clock_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ratingbar_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_1_s.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_1_s.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_popupmenu_background_dark.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_popupmenu_background_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_home_bottom_line_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\home_bottom_line_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_select.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_select.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_fab_background.xml"
+        "merged": "com.auraclone.app-debug-32:/layout_activity_guide_home.xml.flat",
+        "source": "com.auraclone.app-main-34:/layout/activity_guide_home.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_shadow_blue.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_shadow_blue.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_connect_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_connect_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_checkbox_unchecked_mtrl.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_radio_on_mtrl.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_radio_on_mtrl.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_switch_thumb_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-xhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_menu.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_menu.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_plus_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_plus_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_checkbox_checked_mtrl.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_track.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_track.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable__xpopup_shadow.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable/_xpopup_shadow.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-hdpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-hdpi\\ic_launcher.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_bg_air_temp_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_bg_air_temp_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_bg_2_up_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_bg_2_up_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector8.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector8.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_dropdown_arrow.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_dropdown_arrow.xml"
+        "merged": "com.auraclone.app-debug-32:/layout_remote_fragment.xml.flat",
+        "source": "com.auraclone.app-main-34:/layout/remote_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector9.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector9.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_control_background_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_control_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_action_bar_item_background_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_action_bar_item_background_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-xhdpi_pic_loading_logo_2x.png.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-xhdpi/pic_loading_logo_2x.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\notification_bg_low_pressed.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_check_material_anim.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_check_material_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_thumb.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_thumb.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_bg_2_up_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_bg_2_up_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_connect_remote_bg_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_connect_remote_bg_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_login_segement_btn.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_login_segement_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_dialog_material_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_dialog_material_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_forward.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_forward.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_login_segement_btn.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_login_segement_btn.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_colored_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_gray_thumb.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_gray_thumb.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_snackbar_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_snackbar_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_keyboard_arrow_right_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ratingbar_small_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\notification_bg_normal_pressed.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\xml_device_filter.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\xml\\device_filter.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_set.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_set.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_box_play_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_box_play_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_black_16dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_dialog_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_dialog_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_mtrl_chip_close_circle.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_mtrl_chip_close_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_box_stop_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_box_stop_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector0.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector0.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_diy_item_delete_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\diy_item_delete_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_shape_btn_1_normal.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/shape_btn_1_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_search_remote_edit_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\search_remote_edit_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_add_btn_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\add_btn_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_dialog_material_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ksw_md_thumb.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ksw_md_thumb.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_keyboard_arrow_left_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "com.auraclone.app-debug-32:/layout_activity_brand_list.xml.flat",
+        "source": "com.auraclone.app-main-34:/layout/activity_brand_list.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_black_16dp.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_return.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_return.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_green_track.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_green_track.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\notify_panel_notification_icon_bg.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_4_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_4_s.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_direction_1_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_direction_1_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_mtrl_checked_circle.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_mtrl_checked_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_green_thumb.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_green_thumb.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_match.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_match.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ok_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ok_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_remote_diy_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_remote_diy_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_2_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_2_s.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_mute_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_mute_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_speed_key_selector3.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_speed_key_selector3.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\layout_remote_fragment.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\layout\\remote_fragment.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_stop.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_stop.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\notification_tile_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_box_back_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_box_back_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_bubble_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\bubble_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-ldpi_ic_launcher.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-ldpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector7.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector7.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\layout\\activity_main.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_selector_pickerview_btn.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\selector_pickerview_btn.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_bubble_background_inverted_triangle.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/bubble_background_inverted_triangle.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_mtrl_chip_close_circle.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_mtrl_chip_close_circle.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_ic_arrow_drop_up.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_ic_arrow_drop_up.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_popup_list_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\popup_list_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_forward_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_forward_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_half_black_16dp.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_track.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_default_mtrl_shape.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_menu_arrow_up_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_radio_material_anim.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_radio_material_anim.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_tooltip_frame_dark.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\tooltip_frame_dark.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_auto_match_try_again.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_auto_match_try_again.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_guide_messgess_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\guide_messgess_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_mute_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_mute_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_list_selector_holo_dark.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_smart_btn_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/smart_btn_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_play.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_play.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector7.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector7.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_irlearn_list_key.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_irlearn_list_key.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_speed_key_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_speed_key_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_control_background_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_control_background_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_notification_action_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_swap_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_swap_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_searchview_border.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\searchview_border.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_clear_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_clear_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_direction_2_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_direction_2_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_check_background_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_check_background_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_ac_bg2_wind_fix_2x_s.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_ac_bg2_wind_fix_2x_s.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ksw_md_thumb.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ksw_md_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_smart_btn_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\smart_btn_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_black_48dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_black_48dp.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ok_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ok_s.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_mute_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_mute_n.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_stop_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_stop_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector6.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector6.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\layout\\activity_home.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_calendar_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_calendar_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector1.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector1.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector2.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector2.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_clear_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_clear_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_seekbar_thumb_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_fan_clock_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_fan_clock_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.auraclone.app-main-34:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_menu_arrow_down_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_menu_arrow_down_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_notification_bg_normal.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_shape_btn_1_selected.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\shape_btn_1_selected.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_navigation_empty_icon.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_direction_4_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_direction_4_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_set_no.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_set_no.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_mtrl_chip_checked_circle.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_mtrl_chip_checked_circle.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_timer_set_s_p_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/timer_set_s_p_2x.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_return.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_return.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_diybg_on.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_diybg_on.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_1.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_1.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_menu_overflow_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_radio_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_mtrl_chip_checked_circle.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_mtrl_chip_checked_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_bg_more_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_bg_more_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_ic_error.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_ic_error.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-hdpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector8.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector8.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/text_color_selector.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_mute.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_mute.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\xml\\data_extraction_rules.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_colored_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_diybg_off.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_diybg_off.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_star_black_36dp.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_radio_material_anim.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_radio_material_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_direction_3_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_direction_3_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_key_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_key_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_3.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_3.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_thumb.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_bg_2_down_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_bg_2_down_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_response_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_response_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_auto_match_try_again.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_auto_match_try_again.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\notification_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector4.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector4.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_radio_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_radio_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector3.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector3.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector4.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector4.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_mute.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_mute.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_timer_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_timer_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_ic_arrow_drop_down.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_ic_arrow_drop_down.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_search_api_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_2.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_2.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_item_background_holo_light.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_fix_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_fix_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_timer_set_s_2x.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\timer_set_s_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_diy_item_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\diy_item_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_guide_messgess_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/guide_messgess_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_add_smart_bg_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_add_smart_bg_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_box_forward_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_box_forward_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_ic_error.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_ic_error.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_key_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_key_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_box_play_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_box_play_selector.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_reduce_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_reduce_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_tabs_default_indicator.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_popupmenu_background_dark.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_popupmenu_background_dark.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_diybg_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_diybg_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_avd_hide_password.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_ic_visibility_off.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_ic_visibility_off.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_edit_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\edit_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_2.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_2.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_text_cursor_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ratingbar_indicator_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_chevron_left.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_chevron_left.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_bg_more_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_bg_more_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_ic_arrow_drop_down.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_ic_arrow_drop_down.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_fan_clock_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_fan_clock_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_home_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_home_selector.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_ok.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_ok.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_box_stop_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_box_stop_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector3.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector3.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_connect_bg_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_connect_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_device_status_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\device_status_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_bg_2_down_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_bg_2_down_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_baseline_check_24.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_baseline_check_24.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_half_black_48dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_shadow_blue.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_shadow_blue.9.png"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_diybg_off.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_diybg_off.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_direction_3_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_direction_3_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_add_share_cancel.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_add_share_cancel.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_clear_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_me_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_me_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_3.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_3.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_avd_hide_password.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\avd_hide_password.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_ic_cancel.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_ic_cancel.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector6.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector6.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_return_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_return_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_tabs_default_indicator.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_tabs_default_indicator.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_menu.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_delete_selected.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_delete_selected.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_remote_btn_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/remote_btn_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_1.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_1.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_connect_bg_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_connect_bg_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_dropdown_arrow.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_dropdown_arrow.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_speed_key_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_speed_key_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_diybg_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_diybg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-ldpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-ldpi\\ic_launcher.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_baseline_check_24.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_baseline_check_24.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_key_background_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_key_background_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_searchview_border.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/searchview_border.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_baseline_check_24_normal.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_baseline_check_24_normal.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_notification_bg_low.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_menu_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_menu_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_search_remote_edit_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/search_remote_edit_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_snackbar_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_connect_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_connect_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ac_bg2_wind_fix_2x_d.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ac_bg2_wind_fix_2x_d.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_ic_arrow_drop_up.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_ic_arrow_drop_up.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_speed_key_selector1.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_speed_key_selector1.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_popup_list_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/popup_list_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\xml\\backup_rules.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_ic_visibility.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_response_background_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_response_background_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_response_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_response_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_diy_item_delete_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/diy_item_delete_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_borderless_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_play.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_play.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_key_background_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_key_background_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_cab_background_top_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_black_36dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_menu_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_menu_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_add_share_cancel.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_add_share_cancel.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_set.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_set.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_check_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_menu_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_menu_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_mtrl_checked_circle.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_mtrl_checked_circle.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_mute_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_mute_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_radio_off_mtrl.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_radio_off_mtrl.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_baseline_check_24_normal.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_baseline_check_24_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_chevron_left.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_chevron_left.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_notification_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/notification_bg.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_reduce.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_reduce.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_password_eye.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_keyboard_arrow_left_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_keyboard_arrow_left_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_add_normal.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\add_normal.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector5.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector5.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_box_set_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_box_set_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-xhdpi_pic_loading_dh_2x.png.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-xhdpi/pic_loading_dh_2x.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_forward_n.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_forward_n.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_tab_indicator_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_remote_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_remote_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_check_background_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_check_background_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector2.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector2.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_btn_check_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_btn_check_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector1.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector1.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_ic_visibility.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_ic_visibility.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_delete_selected.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_delete_selected.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_gray_thumb.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_gray_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_auto_match.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_auto_match.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_box_play_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_box_play_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\notification_bg_low.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_reduce.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_reduce.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_direction_4.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_direction_4.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable__xpopup_shadow.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\_xpopup_shadow.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_add_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_add_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_box_forward_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_box_forward_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_diybg_on.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_diybg_on.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_ac_bg2_wind_fix_2x_d.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_ac_bg2_wind_fix_2x_d.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_ok_s.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_ok_s.xml"
+        "merged": "com.auraclone.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.auraclone.app-main-34:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_response_background_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_response_background_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_1_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_1_s.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_design_fab_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/design_fab_background.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_fan_clock.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_fan_clock.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_selector_pickerview_btn.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/selector_pickerview_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_textfield_search_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_textfield_search_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_list_divider_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_list_divider_material.xml"
+        "merged": "com.auraclone.app-debug-32:/layout_activity_home.xml.flat",
+        "source": "com.auraclone.app-main-34:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_speed_key_selector3.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_speed_key_selector3.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_plus_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_plus_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_radio_off_mtrl.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_radio_off_mtrl.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_menu_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_menu_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_launch_theme.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\launch_theme.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_3_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_3_s.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_edit_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_edit_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_add_smart_bg_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_add_smart_bg_selector.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_plus.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_plus.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_textfield_search_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector0.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector0.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_add_normal.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/add_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_edit_text_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_edit_text_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_radio_on_mtrl.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_radio_on_mtrl.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_tooltip_frame_light.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\tooltip_frame_light.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_home_bottom_line_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/home_bottom_line_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_action_bar_item_background_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_password_eye.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_password_eye.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_notification_action_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\notification_action_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_half_black_36dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_remote_btn_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\remote_btn_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_timer_set_s_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/timer_set_s_2x.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_timer_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_timer_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_speed_key_selector2.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_speed_key_selector2.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_timer_seleted_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_timer_seleted_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_add_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_add_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_avd_show_password.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\avd_show_password.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_notification_bg_low_pressed.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_speed_key_selector2.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_speed_key_selector2.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ok_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ok_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\ic_launcher_round.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_edit_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_edit_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_select.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_select.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_direction_1_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_direction_1_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ok.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ok.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\notification_icon_background.xml"
+        "merged": "com.auraclone.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.auraclone.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_ic_visibility_off.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_ic_visibility_off.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_search_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\search_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_material_ic_calendar_black_24dp.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/material_ic_calendar_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\notification_bg_normal.9.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-xhdpi_guide_home_bg.png.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-xhdpi/guide_home_bg.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_checkbox_unchecked_mtrl.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_checkbox_unchecked_mtrl.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_direction_4_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_direction_4_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_clear_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_clear_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_guide_dialog_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_guide_dialog_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_wind_lv_selector9.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_wind_lv_selector9.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_match.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_match.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_direction_4.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_direction_4.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_checkbox_checked_mtrl.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_checkbox_checked_mtrl.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_auto_match.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_auto_match.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_bg_aura_gradient.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\bg_aura_gradient.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_me_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_me_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_cab_background_internal_bg.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_ac_4l_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/ac_4l_2x.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_ic_mtrl_chip_checked_black.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\ic_mtrl_chip_checked_black.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-xhdpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-xhdpi\\ic_launcher.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_ic_mtrl_chip_checked_black.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/ic_mtrl_chip_checked_black.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_switch_green_track.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\switch_green_track.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_ac_speed_key_selector1.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_ac_speed_key_selector1.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_startup_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_startup_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_add_selected.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/add_selected.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_return_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_return_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_add_btn_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/add_btn_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\notification_bg_low_normal.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\layout_activity_brand_list.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\layout\\activity_brand_list.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_mtrl_popupmenu_background.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/mtrl_popupmenu_background.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_mtrl_popupmenu_background.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\mtrl_popupmenu_background.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_ok_z_s_2x.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_ok_z_s_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_delete_normal.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_delete_normal.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_shape_btn_1_normal.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\shape_btn_1_normal.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_plus_n.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_plus_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_reduce_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_reduce_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_home_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_home_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "com.auraclone.app-debug-28:/mipmap-mdpi_icon_btn_ok_z_2x.xml.flat",
-        "source": "com.auraclone.app-main-30:/mipmap-mdpi/icon_btn_ok_z_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/xml_device_filter.xml.flat",
+        "source": "com.auraclone.app-main-34:/xml/device_filter.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_lv_selector5.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_lv_selector5.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_tooltip_frame_dark.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/tooltip_frame_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_edit_text_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_icon_btn_startup_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/icon_btn_startup_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_swap_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_swap_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_shape_btn_1_selected.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/shape_btn_1_selected.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_timer_set_s_p_2x.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\timer_set_s_p_2x.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_launch_theme.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/launch_theme.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_play_n.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_play_n.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_smart_function_text_color_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_smart_function_text_color_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_switch_green_thumb.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/switch_green_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_irlearn_list_key.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_irlearn_list_key.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_bubble_background_inverted_triangle.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\bubble_background_inverted_triangle.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ok_z_s_2x.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ok_z_s_2x.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_fan_clock_n.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_fan_clock_n.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\mipmap-mdpi_icon_btn_box_stop.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\mipmap-mdpi\\icon_btn_box_stop.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_bg_aura_gradient.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/bg_aura_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_btn_manual_match.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\btn_manual_match.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_manual_match.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_manual_match.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_ac_wind_fix_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_ac_wind_fix_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/mipmap-mdpi_icon_btn_ac_bg2_wind_fix_2x_s.xml.flat",
+        "source": "com.auraclone.app-main-34:/mipmap-mdpi/icon_btn_ac_bg2_wind_fix_2x_s.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_icon_btn_bg_air_temp_selector.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\icon_btn_bg_air_temp_selector.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_notification_bg_low_normal.9.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-debug-28:\\drawable_material_ic_menu_arrow_up_black_24dp.xml.flat",
-        "source": "C:\\Users\\Devan\\.gradle\\daemon\\8.13\\com.auraclone.app-main-30:\\drawable\\material_ic_menu_arrow_up_black_24dp.xml"
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.auraclone.app-debug-32:/drawable_btn_smart_function_text_color_selector.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/btn_smart_function_text_color_selector.xml"
+    },
+    {
+        "merged": "com.auraclone.app-debug-32:/drawable-xhdpi_abc_ic_star_black_48dp.png.flat",
+        "source": "com.auraclone.app-main-34:/drawable-xhdpi/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "com.auraclone.app-debug-32:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.auraclone.app-debug-32:/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "com.auraclone.app-main-34:/drawable/abc_ic_go_search_api_material.xml"
     }
 ]

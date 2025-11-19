@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="indexTextColor" format="reference|color" />
+    <attr name="indexTextSize" format="dimension" />
+    <attr name="selectTextColor" format="reference|color" />
+    
+    <declare-styleable name="IndexBar">
+        <attr name="indexTextColor" />
+        <attr name="indexTextSize" />
+        <attr name="selectTextColor" />
+    </declare-styleable>
+</resources>
+
