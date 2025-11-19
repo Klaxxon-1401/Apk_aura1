@@ -19,4 +19,7 @@
     <color name="color_E35">#F00</color>
     <color name="light_frame">#F00</color>
     <color name="teal_300">#F00</color>
+    <color name="ksw_md_solid_shadow">#33000000</color>
+    <color name="ksw_md_solid_checked_disable">#AAAAAA</color>
+    <color name="ksw_md_solid_disable">#AAAAAA</color>
 </resources>
