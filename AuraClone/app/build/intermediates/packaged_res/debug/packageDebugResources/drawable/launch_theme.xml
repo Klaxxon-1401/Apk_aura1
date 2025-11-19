@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" />
+    <item>
+        <bitmap android:gravity="fill" android:src="@mipmap/pic_loading_bg_2x" />
+    </item>
+    <item android:top="280.0dip">
+        <bitmap android:gravity="top" android:src="@mipmap/pic_loading_dh_2x" />
+    </item>
+    <item android:top="100.0dip">
+        <bitmap android:gravity="top" android:src="@mipmap/pic_loading_logo_2x" />
+    </item>
+</layer-list>

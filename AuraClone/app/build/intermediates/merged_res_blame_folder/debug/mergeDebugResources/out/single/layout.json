@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.auraclone.app-mergeDebugResources-27:/layout/activity_brand_list.xml",
+        "source": "com.auraclone.app-main-30:/layout/activity_brand_list.xml"
+    },
+    {
+        "merged": "com.auraclone.app-mergeDebugResources-27:/layout/activity_home.xml",
+        "source": "com.auraclone.app-main-30:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.auraclone.app-mergeDebugResources-27:/layout/remote_fragment.xml",
+        "source": "com.auraclone.app-main-30:/layout/remote_fragment.xml"
+    },
+    {
+        "merged": "com.auraclone.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.auraclone.app-main-30:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.auraclone.app-mergeDebugResources-26:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Devan\\.gradle\\caches\\8.13\\transforms\\f034bd0e8845d231b401ec7dd9c72d70\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Devan\\.gradle\\caches\\8.13\\transforms\\cd2192e09044a3786217ab600687e42c\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
