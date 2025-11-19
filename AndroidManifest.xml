@@ -30,6 +30,16 @@
     <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:configChanges="locale" android:extractNativeLibs="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.payne.okux.App" android:requestLegacyExternalStorage="true" android:supportsRtl="true" android:theme="@style/Theme.Okux" android:usesCleartextTraffic="true">
+        <activity android:name="com.payne.okux.view.home.MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.payne.okux.view.home.TvActivity" />
+        <activity android:name="com.payne.okux.view.home.AcActivity" />
+        <activity android:name="com.payne.okux.view.home.ProjectorActivity" />
+        <activity android:name="com.payne.okux.view.home.RemoteActivity" />
         <activity android:name="com.payne.okux.view.diy.DiyLearnActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.Add.Remote"/>
         <activity android:name="com.payne.okux.view.diy.DiyAddActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
         <activity android:exported="true" android:name="com.payne.okux.view.irlearn.LearningActivity" android:screenOrientation="sensorPortrait"/>
@@ -89,10 +99,6 @@
         <activity android:exported="true" android:name="com.payne.okux.view.feedback.ChatNowActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:exported="true" android:name="com.payne.okux.view.feedback.UsingHelpActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:exported="true" android:name="com.payne.okux.view.home.SplashUmengAdActivity" android:theme="@style/Theme_Umeng_Push_Splash_en">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
         </activity>
         <activity android:exported="true" android:name="com.payne.okux.guide.GuideHomeActivity" android:screenOrientation="sensorPortrait"/>
         <uses-library android:name="org.apache.http.legacy" android:required="false"/>
