@@ -297,7 +297,7 @@
     <string name="elk_learning_new_tips">4. If the learning process fails or there is no input, please re-plug and unplug the hardware device.</string>
     <string name="elk_learning_other_content">Please enter the name of the remote control button you want to copy</string>
     <string name="elk_learning_other_title">Infrared remote control button name</string>
-    <string name="elk_logo_title">OCRUSTAR</string>
+    <string name="elk_logo_title">Aura IR</string>
     <string name="elk_lt">Lithuanian</string>
     <string name="elk_lv">Latvian</string>
     <string name="elk_me_auto_rotation">Automatic rotation</string>
@@ -338,7 +338,7 @@
     <string name="get_record_blelocation_permission_tips">We need to obtain your Bluetooth and location permissions to search for nearby smart Bluetooth devices.</string>
     <string name="get_remote_id_none">There is no remoteId under this brand and cannot be matched</string>
     <string name="go_to_manual_match">Demanual matching</string>
-    <string name="hello_remote">Hello there! I am a Aura IR remote</string>
+    <string name="hello_remote">Hello there! I am an Aura IR remote</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_speed">High speed</string>
     <string name="hom">Hom</string>

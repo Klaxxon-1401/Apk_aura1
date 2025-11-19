@@ -261,7 +261,7 @@
     <string name="elk_learning_new_tips">4. 学習プロセスが失敗するか、入力がない場合は、ハードウェア デバイスを再度接続して取り外してください。</string>
     <string name="elk_learning_other_content">コピーするリモコンのボタンの名前を入力してください</string>
     <string name="elk_learning_other_title">赤外線リモコンのボタン名</string>
-    <string name="elk_logo_title">OCRUSTAR</string>
+    <string name="elk_logo_title">Aura IR</string>
     <string name="elk_lt">リトアニア語</string>
     <string name="elk_lv">ラトビア語</string>
     <string name="elk_me_auto_rotation">自動 回転 です</string>

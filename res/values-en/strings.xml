@@ -117,7 +117,7 @@
     <string name="air_supply">Wind</string>
     <string name="alert_dialog_title">Prompt</string>
     <string name="alert_tips_title">prompt</string>
-    <string name="app_name">Ocrustar</string>
+    <string name="app_name">Aura IR</string>
     <string name="audio_tip">Tips for using</string>
     <string name="audio_tip_content">The remote control interface can display the voice switch icon when this function is turned on. When the voice is turned on, you can say [turn on the air conditioner] [turn off the air conditioner] [cooling mode] and other commands. For more commands, please check the manual.</string>
     <string name="auto_fail_1">1. The remote control head is not aligned with the air conditioner. Adjust the Angle of the remote control head</string>
@@ -261,7 +261,7 @@
     <string name="elk_learning_new_tips">4. If the learning process fails or there is no input, please re-plug and unplug the hardware device.</string>
     <string name="elk_learning_other_content">Please enter the name of the remote control button you want to copy</string>
     <string name="elk_learning_other_title">Infrared remote control button name</string>
-    <string name="elk_logo_title">OCRUSTAR</string>
+    <string name="elk_logo_title">Aura IR</string>
     <string name="elk_lt">Lithuanian</string>
     <string name="elk_lv">Latvian</string>
     <string name="elk_me_auto_rotation">Automatic rotation</string>
@@ -296,7 +296,7 @@
     <string name="get_record_audio_permission">Recording permission is needed to open voice mode!</string>
     <string name="get_remote_id_none">There is no remoteId under this brand and cannot be matched</string>
     <string name="go_to_manual_match">Demanual matching</string>
-    <string name="hello_remote">Hello there! I am a Ocrustar remote</string>
+    <string name="hello_remote">Hello there! I am an Aura IR remote</string>
     <string name="high_speed">High speed</string>
     <string name="hom">Hom</string>
     <string name="humidity">Humidity:</string>
