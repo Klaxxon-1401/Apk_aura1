@@ -7,7 +7,7 @@
         <item name="android:activityCloseExitAnimation">@android:anim/fade_out</item>
     </style>
     <style name="Theme.Add.Remote" parent="@style/Theme.Okux">
-        <item name="android:windowBackground">@color/very_light_frame</item>
+        <item name="android:windowBackground">@drawable/bg_aura_gradient</item>
         <item name="android:windowIsTranslucent">true</item>
     </style>
     <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
@@ -37,6 +37,8 @@
         <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:statusBarColor">?colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?colorPrimaryVariant</item>
+        <item name="android:windowBackground">@drawable/bg_aura_gradient</item>
         <item name="colorOnPrimary">@color/black</item>
         <item name="colorOnSecondary">@color/black</item>
         <item name="colorPrimary">@color/purple_200</item>

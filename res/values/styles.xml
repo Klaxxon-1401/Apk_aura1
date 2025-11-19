@@ -2038,7 +2038,7 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" />
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title" />
     <style name="Theme.Add.Remote" parent="@style/Theme.Okux">
-        <item name="android:windowBackground">@color/very_light_frame</item>
+        <item name="android:windowBackground">@drawable/bg_aura_gradient</item>
         <item name="android:windowIsTranslucent">false</item>
     </style>
     <style name="Theme.AppCompat" parent="@style/Base.Theme.AppCompat" />
@@ -2188,6 +2188,8 @@
         <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:statusBarColor">?colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?colorPrimaryVariant</item>
+        <item name="android:windowBackground">@drawable/bg_aura_gradient</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="colorOnSecondary">@color/black</item>
         <item name="colorPrimary">@color/purple_500</item>
@@ -2197,7 +2199,7 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.function" parent="@style/Theme.Okux">
-        <item name="android:windowBackground">@color/very_light</item>
+        <item name="android:windowBackground">@drawable/bg_aura_gradient</item>
         <item name="android:windowIsTranslucent">false</item>
     </style>
     <style name="ThemeOverlay.AppCompat" parent="@style/Base.ThemeOverlay.AppCompat" />

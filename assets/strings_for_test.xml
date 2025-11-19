@@ -249,12 +249,12 @@
     <string name="intelligent_control_mode">智控模式</string>
     <string name="on_off_timer">定时开关</string>
     <string name="diy">DIY功能</string>
-    <string name="upgrade_function">升级功能</string>
+    <string name="upgrade_function">更新功能已移除</string>
     <string name="room_temperature">室温:</string>
     <string name="humidity">湿度:</string>
     <string name="intelligent_control_settings">智控设置</string>
     <string name="timer_settings">定时设置</string>
-    <string name="ota_upgrade">OTA升级</string>
+    <string name="ota_upgrade">更新已禁用</string>
     <string name="turn_off_smart_control">关闭智控</string>
     <string name="turn_on_smart_control">开启智控</string>
     <string name="intelligent_adjustment">智能根据室温来调节为舒适模式，直到26度</string>

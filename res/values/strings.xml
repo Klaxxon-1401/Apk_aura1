@@ -32,7 +32,7 @@
     <string name="KeyType_head_swing">Swing</string>
     <string name="KeyType_home">Home</string>
     <string name="KeyType_information">Info</string>
-    <string name="KeyType_language">Language</string>
+    <string name="KeyType_language">Language (English only)</string>
     <string name="KeyType_look_back">Back</string>
     <string name="KeyType_memorykey_one">Memory key 1</string>
     <string name="KeyType_memorykey_two">Memory key 2</string>
@@ -135,7 +135,7 @@
     <string name="about_version">Version: v%s</string>
     <string name="add">Add</string>
     <string name="add_device">Add BLE device</string>
-    <string name="add_floating_window">浮窗</string>
+    <string name="add_floating_window">Floating window</string>
     <string name="add_ir_key">Click the add button</string>
     <string name="add_ir_key_tips_l">coding learning</string>
     <string name="add_ir_key_tips_r">Emit infrared</string>
@@ -145,7 +145,7 @@
     <string name="air_supply">Wind</string>
     <string name="alert_dialog_title">Prompt</string>
     <string name="alert_tips_title">prompt</string>
-    <string name="app_name">Ocrustar</string>
+    <string name="app_name">Aura IR</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="audio_tip">Tips for using</string>
     <string name="audio_tip_content">The remote control interface can display the voice switch icon when this function is turned on. When the voice is turned on, you can say [turn on the air conditioner] [turn off the air conditioner] [cooling mode] and other commands. For more commands, please check the manual.</string>
@@ -207,7 +207,7 @@
     <string name="connecting_tips">Please wait, a device is connected...</string>
     <string name="connection_failed">Connection failed</string>
     <string name="delete">Delete</string>
-    <string name="delete_floating_window">删除浮窗</string>
+    <string name="delete_floating_window">Remove floating window</string>
     <string name="device_offline">Offline</string>
     <string name="device_online">Online</string>
     <string name="disconnect">Disconnect</string>
@@ -305,6 +305,7 @@
     <string name="elk_me_ir_support">Infrared code library support by Kookong</string>
     <string name="elk_me_logout">Logout</string>
     <string name="elk_me_novice_guide">"Beginner's guide"</string>
+    <string name="help_section_subtitle">Get quick access to the Using help resources.</string>
     <string name="elk_me_using_help">Using help</string>
     <string name="elk_ms">Malay</string>
     <string name="elk_nl">Dutch</string>
@@ -337,7 +338,7 @@
     <string name="get_record_blelocation_permission_tips">We need to obtain your Bluetooth and location permissions to search for nearby smart Bluetooth devices.</string>
     <string name="get_remote_id_none">There is no remoteId under this brand and cannot be matched</string>
     <string name="go_to_manual_match">Demanual matching</string>
-    <string name="hello_remote">Hello there! I am a Ocrustar remote</string>
+    <string name="hello_remote">Hello there! I am a Aura IR remote</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_speed">High speed</string>
     <string name="hom">Hom</string>
@@ -417,7 +418,7 @@
     <string name="ir_learn_upload_s">Remote control successfully uploaded</string>
     <string name="ir_learn_upload_server">upload</string>
     <string name="item_view_role_description">Tab</string>
-    <string name="language">默认</string>
+    <string name="language">English</string>
     <string name="loading">Loading…</string>
     <string name="low_speed">Low speed</string>
     <string name="manual_matching">Manual matching</string>
@@ -489,7 +490,7 @@
     <string name="open_audio_mode">Turn on the voice mode</string>
     <string name="open_location">Please turn on location services</string>
     <string name="operation_failed">operation failed:</string>
-    <string name="ota_upgrade">OTA upgrade</string>
+    <string name="ota_upgrade">Updates disabled</string>
     <string name="other">Other</string>
     <string name="own_remote_enter">Go supplement code</string>
     <string name="pairFailed">"End of match 
@@ -499,14 +500,14 @@
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="pickerview_cancel">取消</string>
-    <string name="pickerview_day">日</string>
-    <string name="pickerview_hours">时</string>
-    <string name="pickerview_minutes">分</string>
-    <string name="pickerview_month">月</string>
-    <string name="pickerview_seconds">秒</string>
-    <string name="pickerview_submit">确定</string>
-    <string name="pickerview_year">年</string>
+    <string name="pickerview_cancel">Cancel</string>
+    <string name="pickerview_day">Day</string>
+    <string name="pickerview_hours">Hour</string>
+    <string name="pickerview_minutes">Minute</string>
+    <string name="pickerview_month">Month</string>
+    <string name="pickerview_seconds">Second</string>
+    <string name="pickerview_submit">Confirm</string>
+    <string name="pickerview_year">Year</string>
     <string name="please_select_model">Please select a mode</string>
     <string name="please_select_time">Please choose a time</string>
     <string name="please_select_timing">Please select the timing</string>
@@ -554,7 +555,7 @@
     <string name="str_model_time" formatted="false">Model:%s —Time:%dm —Wind:%s</string>
     <string name="str_model_time_temp" formatted="false">Model:%s —Time:%dm —Wind:%s —Temp:%d℃</string>
     <string name="sure">Confirm</string>
-    <string name="switch_language">Are you sure want to change the language?</string>
+    <string name="switch_language">Aura IR now runs exclusively in English.</string>
     <string name="temp">Temp</string>
     <string name="temperature_and_humidity">THC</string>
     <string name="timed_on">Timed on</string>
@@ -577,14 +578,16 @@
     <string name="turn_on_smart_control">Smart mode on</string>
     <string name="tv_av">TV/AV</string>
     <string name="universal_remote_control">URC</string>
-    <string name="upgrade_function">Upgrade</string>
+    <string name="upgrade_function">Updates removed</string>
     <string name="usePolicyRule">User Service Agreement</string>
     <string name="use_instructions">Manual</string>
-    <string name="version_update_cancel">Ignore</string>
-    <string name="version_update_content1">The latest version has been released</string>
-    <string name="version_update_content2">Upgrade to experience!</string>
-    <string name="version_update_ok">Update Now</string>
-    <string name="version_update_title">Version update prompt</string>
+    <string name="version_update_cancel">Close</string>
+    <string name="version_update_content1">Aura IR no longer provides OTA updates.</string>
+    <string name="version_update_content2">Please continue using your current build.</string>
+    <string name="version_update_ok">Close</string>
+    <string name="version_update_title">Updates disabled</string>
+    <string name="updates_disabled_message">Firmware and application updates have been permanently disabled for Aura IR.</string>
+    <string name="updates_disabled_details">You are already on the supported build, and no further downloads or installations will be offered.</string>
     <string name="voice_mode">Voice mode</string>
     <string name="volume">VOL</string>
     <string name="wind_speed">Speed</string>

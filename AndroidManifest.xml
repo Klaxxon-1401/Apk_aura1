@@ -34,7 +34,6 @@
         <activity android:name="com.payne.okux.view.diy.DiyAddActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
         <activity android:exported="true" android:name="com.payne.okux.view.irlearn.LearningActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.intelligent.SetNoseTempActivity"/>
-        <activity android:name="com.payne.okux.view.upgrade.UpgradeActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
         <activity android:name="com.payne.okux.view.diy.DiyFunctionActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
         <activity android:name="com.payne.okux.view.timer.TimerSwitchActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
         <activity android:name="com.payne.okux.view.intelligent.IntelligentControlActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
@@ -49,7 +48,6 @@
         <activity android:name="com.payne.okux.view.feedback.PrivateActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.feedback.UsePolicyActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.set.SetUpActivity" android:screenOrientation="sensorPortrait"/>
-        <activity android:name="com.payne.okux.view.language.LanguageSwitchActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.match.MatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.match.SingleKeyMatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.brand.BrandListActivity" android:screenOrientation="sensorPortrait"/>
@@ -87,7 +85,6 @@
         <activity android:name="com.payne.okux.view.ad.TaobaoKeActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.ad.TaobaoFloadAdActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.ble.BleScanActivity" android:screenOrientation="sensorPortrait"/>
-        <activity android:name="com.payne.okux.view.language.HightSettingActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:name="com.payne.okux.view.ad.FloatAdActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:exported="true" android:name="com.payne.okux.view.feedback.ChatNowActivity" android:screenOrientation="sensorPortrait"/>
         <activity android:exported="true" android:name="com.payne.okux.view.feedback.UsingHelpActivity" android:screenOrientation="sensorPortrait"/>

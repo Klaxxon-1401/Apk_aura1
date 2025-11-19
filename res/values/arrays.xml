@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ic_temp_type">
-        <item>恒温模式</item>
-        <item>儿童模式</item>
-        <item>老人模式</item>
+        <item>Steady temp mode</item>
+        <item>Kids mode</item>
+        <item>Senior mode</item>
     </string-array>
     <string-array name="temp_type">
-        <item>自动</item>
-        <item>送风</item>
-        <item>抽湿</item>
-        <item>加热</item>
-        <item>制冷</item>
+        <item>Auto</item>
+        <item>Fan</item>
+        <item>Dehumidify</item>
+        <item>Heat</item>
+        <item>Cool</item>
     </string-array>
 </resources>
