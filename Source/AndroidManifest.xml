@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.payne.okux" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-permission android:maxSdkVersion="30" android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:maxSdkVersion="30" android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.TRANSMIT_IR"/>
+    <uses-feature android:name="android.hardware.usb.host"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <queries>
+        <intent>
+            <action android:name="com.umeng.message.action.notify"/>
+        </intent>
+    </queries>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:configChanges="locale" android:extractNativeLibs="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.payne.okux.App" android:requestLegacyExternalStorage="true" android:supportsRtl="true" android:theme="@style/Theme.Okux" android:usesCleartextTraffic="true">
+        <activity android:name="com.payne.okux.view.diy.DiyLearnActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.Add.Remote"/>
+        <activity android:name="com.payne.okux.view.diy.DiyAddActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:exported="true" android:name="com.payne.okux.view.irlearn.LearningActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.intelligent.SetNoseTempActivity"/>
+        <activity android:name="com.payne.okux.view.diy.DiyFunctionActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:name="com.payne.okux.view.timer.TimerSwitchActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:name="com.payne.okux.view.intelligent.IntelligentControlActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:name="com.payne.okux.view.temp.TempHumidityActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:name="com.payne.okux.view.function.SmartFunctionActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function"/>
+        <activity android:name="com.payne.okux.view.irlearn.SelectRemoteTypeActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.DiyKeyListActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.feedback.ManualNewActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.QAActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.about.AboutActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.feedback.FeedbackActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.feedback.PrivateActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.feedback.UsePolicyActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.set.SetUpActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.MatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.SingleKeyMatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.brand.BrandListActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.brand.MatchSTBActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.brand.MatchIPTVBrandActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.add.AddRemoteActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.Add.Remote"/>
+        <activity android:name="com.payne.okux.guide.AddRemoteGuideActivity" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.Add.Remote"/>
+        <activity android:name="com.payne.okux.guide.BrandListGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.guide.SingleKeyMatchRemoteGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.guide.AutoMatchDiDiGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.guide.MatchRemoteGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.guide.MatchAirConditionerGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.DiyRemoteSaveActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.guide.HomeGuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ownremote.OwnMachineTypeActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ownremote.OwnBrandListActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ownremote.OwnMatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.LoginActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.LogoutActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.RegisterEmailActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.irlearn.ResetEmailPwdActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.feedback.BBSActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.AutoSingleKeyMatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.AutoMatchRemoteActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.AutoMatchDiDiActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.about.SettingBLEGapActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.match.MatchAirConditionerActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.guide.GuideActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.payne.okux.view.home.HomeActivityKotlin" android:screenOrientation="sensorPortrait" android:theme="@style/Theme.function">
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"/>
+            </intent-filter>
+            <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" android:resource="@xml/device_filter"/>
+        </activity>
+        <activity android:name="com.payne.okux.view.ad.TaobaoKeActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ad.TaobaoFloadAdActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ble.BleScanActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="com.payne.okux.view.ad.FloatAdActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:exported="true" android:name="com.payne.okux.view.feedback.ChatNowActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:exported="true" android:name="com.payne.okux.view.feedback.UsingHelpActivity" android:screenOrientation="sensorPortrait"/>
+        <activity android:exported="true" android:name="com.payne.okux.view.home.SplashUmengAdActivity" android:theme="@style/Theme_Umeng_Push_Splash_en">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:name="com.payne.okux.guide.GuideHomeActivity" android:screenOrientation="sensorPortrait"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <service android:exported="false" android:name="com.umeng.message.component.UmengIntentService" android:process=":channel">
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.umeng.message.component.UmengMessageReceiverService" android:process=":channel">
+            <intent-filter>
+                <action android:name="org.android.agoo.client.MessageReceiverService"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.umeng.message.component.UmengMessageHandlerService" android:permission="android.permission.BIND_JOB_SERVICE">
+            <intent-filter>
+                <action android:name="com.umeng.message.action"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.payne.okux.umeng.message" android:exported="false" android:name="com.umeng.message.component.UmengMessageProvider"/>
+        <receiver android:exported="false" android:name="com.umeng.message.component.UmengNotificationReceiver"/>
+        <activity android:exported="false" android:name="com.umeng.message.component.UmengNotificationClickActivity"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTask" android:name="com.umeng.message.notify.UPushMessageNotifyActivity" android:screenOrientation="behind" android:taskAffinity="com.payne.okux.u_push" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity-alias android:exported="true" android:name="com.umeng.message.UMessageNotifyActivity" android:targetActivity="com.umeng.message.notify.UPushMessageNotifyActivity" android:taskAffinity="com.payne.okux.u_push">
+            <intent-filter>
+                <action android:name="com.umeng.message.action.notify"/>
+            </intent-filter>
+        </activity-alias>
+        <service android:exported="false" android:name="com.taobao.accs.ChannelService" android:process=":channel">
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.SERVICE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.ELECTION"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.taobao.accs.data.MsgDistributeService">
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.taobao.accs.internal.AccsJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:process=":channel"/>
+        <service android:exported="false" android:name="com.taobao.accs.ChannelService$KernelService" android:process=":channel"/>
+        <service android:exported="false" android:name="org.android.agoo.accs.AgooService">
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name="com.taobao.accs.EventReceiver" android:process=":channel">
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.taobao.accs.ServiceReceiver" android:process=":channel">
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.COMMAND"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.START_FROM_AGOO"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.taobao.agoo.AgooCommondReceiver" android:process=":channel">
+            <intent-filter>
+                <action android:name="com.payne.okux.intent.action.COMMAND"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.payne.okux.EasyFloatInitializer" android:exported="false" android:multiprocess="true" android:name="com.lzf.easyfloat.EasyFloatInitializer"/>
+        <meta-data android:name="android.notch_support" android:value="true"/>
+        <activity android:name="com.lxj.xpopup.util.XPermission$PermissionActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:name="com.github.dfqin.grantor.PermissionActivity" android:theme="@style/GrantorNoDisplay"/>
+    </application>
+</manifest>

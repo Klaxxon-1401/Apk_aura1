@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/custom_dialog_layout" android:background="@drawable/btn_guide_dialog_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/dp_20" android:layout_marginRight="@dimen/dp_20"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/notification_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="您收到了一条通知。" />
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/black" android:gravity="center" android:layout_gravity="center" android:id="@id/notification_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dp_30" android:text="您收到了一条通知。" android:layout_centerInParent="true" />
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_below="@id/notification_content">
+        <LinearLayout android:id="@id/confirm_button_ok" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="16.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/confirm_button_txok" android:layout_width="fill_parent" android:layout_height="@dimen/dp_50" android:text="确认" android:layout_toEndOf="@id/cancel_button" />
+        </LinearLayout>
+        <LinearLayout android:background="#80000000" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/no_cencel" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/cancel_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="16.0sp" android:gravity="center" android:id="@id/cancel_button_tx" android:layout_width="fill_parent" android:layout_height="@dimen/dp_50" android:text="取消" android:layout_alignParentStart="true" />
+            </LinearLayout>
+            <LinearLayout android:background="#80000000" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+            <LinearLayout android:id="@id/confirm_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="16.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/confirm_button_tx" android:layout_width="fill_parent" android:layout_height="@dimen/dp_50" android:text="确认" android:layout_toEndOf="@id/cancel_button" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Filter for common USB-Serial chips (FTDI, PL2303, CH340, CP210x) -->
+    <!-- This allows the app to auto-launch when these are connected -->
+    <!-- FTDI -->
+    <usb-device vendor-id="1027" />
+    <!-- Prolific -->
+    <usb-device vendor-id="1659" />
+    <!-- Qinheng (CH340) -->
+    <usb-device vendor-id="6790" />
+    <!-- Silicon Labs (CP210x) -->
+    <usb-device vendor-id="4292" />
+</resources>

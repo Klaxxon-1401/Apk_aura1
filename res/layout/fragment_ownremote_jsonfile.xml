@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <androidx.recyclerview.widget.RecyclerView android:id="@id/remote_key" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="30.0dip" android:layout_marginBottom="50.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
-    <com.payne.okux.view.widget.VolumeView android:id="@id/layout_volume" android:visibility="gone" android:layout_width="142.0dip" android:layout_height="60.0dip" android:layout_marginTop="140.0dip" android:layout_marginBottom="731.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
-    <TextView android:textSize="14.0sp" android:textColor="#ffb7c2ce" android:gravity="center" android:id="@id/logo_txt_subTitle" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/elk_logo_title" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>

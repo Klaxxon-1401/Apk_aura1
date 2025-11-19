@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/custom_dialog_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="80.0dip" android:layout_marginRight="80.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="vertical" android:id="@id/massegess_conten" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <ImageView android:layout_gravity="center" android:id="@id/gif_airdidi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/icon_guide_air_didi" />
-    </LinearLayout>
-</LinearLayout>
