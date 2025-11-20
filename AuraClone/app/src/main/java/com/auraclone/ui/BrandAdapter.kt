@@ -7,6 +7,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
+import com.auraclone.R
 
 class BrandAdapter(
     private val onBrandClick: (String) -> Unit
@@ -16,7 +17,7 @@ class BrandAdapter(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BrandViewHolder {
         val view = LayoutInflater.from(parent.context)
-            .inflate(android.R.layout.simple_list_item_1, parent, false)
+            .inflate(R.layout.item_brand, parent, false)
         return BrandViewHolder(view)
     }
 
@@ -39,7 +40,7 @@ class BrandAdapter(
     }
 
     inner class BrandViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        private val textView: TextView = itemView.findViewById(android.R.id.text1)
+        private val textView: TextView = itemView.findViewById(R.id.tv_brand_name)
 
         fun bind(brand: String) {
             textView.text = brand

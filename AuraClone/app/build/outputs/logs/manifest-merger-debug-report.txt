@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:2:1-69:12
 MERGED from [androidx.databinding:viewbinding:8.13.1] C:\Users\Devan\.gradle\caches\8.13\transforms\1b10b98635001a8d80e59e9070cd09f5\transformed\jetified-viewbinding-8.13.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Devan\.gradle\caches\8.13\transforms\f0d06400df11def54af85a1170cc0520\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -71,8 +71,8 @@ ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:8:5-62
 	android:name
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:8:19-59
 application
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-57:19
-INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-57:19
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-67:19
+INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:10:5-67:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\Devan\.gradle\caches\8.13\transforms\89a055363f9f678c796c50931336deaf\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Devan\.gradle\caches\8.13\transforms\f0d06400df11def54af85a1170cc0520\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -164,13 +164,29 @@ ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:48:9-51:6
 	android:name
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:49:13-50
 activity#com.auraclone.ui.RemoteControlActivity
-ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:53:9-56:67
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:53:9-56:61
 	android:parentActivityName
-		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:56:13-64
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:56:13-58
 	android:exported
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:55:13-37
 	android:name
 		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:54:13-53
+activity#com.auraclone.ui.ApplianceSelectionActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:58:9-61:66
+	android:parentActivityName
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:61:13-63
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:59:13-58
+activity#com.auraclone.ui.TestRemoteActivity
+ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:63:9-66:75
+	android:parentActivityName
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:66:13-72
+	android:exported
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml:64:13-50
 uses-sdk
 INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\apk\Apk_aura1\AuraClone\app\src\main\AndroidManifest.xml

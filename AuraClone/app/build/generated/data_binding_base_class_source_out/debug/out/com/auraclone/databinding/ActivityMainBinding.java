@@ -5,6 +5,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,16 +24,69 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView statusText;
+  public final Button btnAddRemote;
 
   @NonNull
-  public final Button testButton;
+  public final LinearLayout defaultContent;
 
-  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull TextView statusText,
-      @NonNull Button testButton) {
+  @NonNull
+  public final FrameLayout fmContent;
+
+  @NonNull
+  public final LinearLayout helpSectionCard;
+
+  @NonNull
+  public final TextView helpSectionDescription;
+
+  @NonNull
+  public final TextView helpSectionItemGuide;
+
+  @NonNull
+  public final TextView helpSectionItemManual;
+
+  @NonNull
+  public final TextView helpSectionItemQna;
+
+  @NonNull
+  public final TextView helpSectionTitle;
+
+  @NonNull
+  public final ImageView ivRemote;
+
+  @NonNull
+  public final TextView logoTxtSubTitle;
+
+  @NonNull
+  public final TextView tvRemote;
+
+  @NonNull
+  public final View vBottomLine;
+
+  @NonNull
+  public final View vBottomRemote;
+
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnAddRemote,
+      @NonNull LinearLayout defaultContent, @NonNull FrameLayout fmContent,
+      @NonNull LinearLayout helpSectionCard, @NonNull TextView helpSectionDescription,
+      @NonNull TextView helpSectionItemGuide, @NonNull TextView helpSectionItemManual,
+      @NonNull TextView helpSectionItemQna, @NonNull TextView helpSectionTitle,
+      @NonNull ImageView ivRemote, @NonNull TextView logoTxtSubTitle, @NonNull TextView tvRemote,
+      @NonNull View vBottomLine, @NonNull View vBottomRemote) {
     this.rootView = rootView;
-    this.statusText = statusText;
-    this.testButton = testButton;
+    this.btnAddRemote = btnAddRemote;
+    this.defaultContent = defaultContent;
+    this.fmContent = fmContent;
+    this.helpSectionCard = helpSectionCard;
+    this.helpSectionDescription = helpSectionDescription;
+    this.helpSectionItemGuide = helpSectionItemGuide;
+    this.helpSectionItemManual = helpSectionItemManual;
+    this.helpSectionItemQna = helpSectionItemQna;
+    this.helpSectionTitle = helpSectionTitle;
+    this.ivRemote = ivRemote;
+    this.logoTxtSubTitle = logoTxtSubTitle;
+    this.tvRemote = tvRemote;
+    this.vBottomLine = vBottomLine;
+    this.vBottomRemote = vBottomRemote;
   }
 
   @Override
@@ -60,19 +116,94 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.status_text;
-      TextView statusText = ViewBindings.findChildViewById(rootView, id);
-      if (statusText == null) {
+      id = R.id.btn_add_remote;
+      Button btnAddRemote = ViewBindings.findChildViewById(rootView, id);
+      if (btnAddRemote == null) {
         break missingId;
       }
 
-      id = R.id.test_button;
-      Button testButton = ViewBindings.findChildViewById(rootView, id);
-      if (testButton == null) {
+      id = R.id.default_content;
+      LinearLayout defaultContent = ViewBindings.findChildViewById(rootView, id);
+      if (defaultContent == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, statusText, testButton);
+      id = R.id.fm_content;
+      FrameLayout fmContent = ViewBindings.findChildViewById(rootView, id);
+      if (fmContent == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_card;
+      LinearLayout helpSectionCard = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionCard == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_description;
+      TextView helpSectionDescription = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionDescription == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_guide;
+      TextView helpSectionItemGuide = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemGuide == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_manual;
+      TextView helpSectionItemManual = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemManual == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_item_qna;
+      TextView helpSectionItemQna = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionItemQna == null) {
+        break missingId;
+      }
+
+      id = R.id.help_section_title;
+      TextView helpSectionTitle = ViewBindings.findChildViewById(rootView, id);
+      if (helpSectionTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.iv_remote;
+      ImageView ivRemote = ViewBindings.findChildViewById(rootView, id);
+      if (ivRemote == null) {
+        break missingId;
+      }
+
+      id = R.id.logo_txt_subTitle;
+      TextView logoTxtSubTitle = ViewBindings.findChildViewById(rootView, id);
+      if (logoTxtSubTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_remote;
+      TextView tvRemote = ViewBindings.findChildViewById(rootView, id);
+      if (tvRemote == null) {
+        break missingId;
+      }
+
+      id = R.id.v_bottom_line;
+      View vBottomLine = ViewBindings.findChildViewById(rootView, id);
+      if (vBottomLine == null) {
+        break missingId;
+      }
+
+      id = R.id.v_bottom_remote;
+      View vBottomRemote = ViewBindings.findChildViewById(rootView, id);
+      if (vBottomRemote == null) {
+        break missingId;
+      }
+
+      return new ActivityMainBinding((ConstraintLayout) rootView, btnAddRemote, defaultContent,
+          fmContent, helpSectionCard, helpSectionDescription, helpSectionItemGuide,
+          helpSectionItemManual, helpSectionItemQna, helpSectionTitle, ivRemote, logoTxtSubTitle,
+          tvRemote, vBottomLine, vBottomRemote);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

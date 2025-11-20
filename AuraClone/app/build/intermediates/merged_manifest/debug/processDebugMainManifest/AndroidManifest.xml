@@ -66,7 +66,15 @@
         <activity
             android:name="com.auraclone.ui.RemoteControlActivity"
             android:exported="false"
-            android:parentActivityName="com.auraclone.ui.DeviceListActivity" />
+            android:parentActivityName="com.auraclone.ui.HomeActivity" />
+        <activity
+            android:name="com.auraclone.ui.ApplianceSelectionActivity"
+            android:exported="false"
+            android:parentActivityName="com.auraclone.ui.BrandListActivity" />
+        <activity
+            android:name="com.auraclone.ui.TestRemoteActivity"
+            android:exported="false"
+            android:parentActivityName="com.auraclone.ui.ApplianceSelectionActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

@@ -15,7 +15,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.auraclone.R;
-import com.payne.okux.view.widget.IndexBar;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -26,9 +25,6 @@ public final class ActivityBrandListBinding implements ViewBinding {
 
   @NonNull
   public final SearchView brandScResult;
-
-  @NonNull
-  public final IndexBar indexBar;
 
   @NonNull
   public final ImageView ivBack;
@@ -43,9 +39,6 @@ public final class ActivityBrandListBinding implements ViewBinding {
   public final TextView tvLoading;
 
   @NonNull
-  public final TextView tvSearchCenter;
-
-  @NonNull
   public final TextView tvSelect;
 
   @NonNull
@@ -55,18 +48,15 @@ public final class ActivityBrandListBinding implements ViewBinding {
   public final View vTitleLine;
 
   private ActivityBrandListBinding(@NonNull ConstraintLayout rootView,
-      @NonNull SearchView brandScResult, @NonNull IndexBar indexBar, @NonNull ImageView ivBack,
-      @NonNull ProgressBar pbLoading, @NonNull RecyclerView rvBrandList,
-      @NonNull TextView tvLoading, @NonNull TextView tvSearchCenter, @NonNull TextView tvSelect,
+      @NonNull SearchView brandScResult, @NonNull ImageView ivBack, @NonNull ProgressBar pbLoading,
+      @NonNull RecyclerView rvBrandList, @NonNull TextView tvLoading, @NonNull TextView tvSelect,
       @NonNull TextView tvTitle, @NonNull View vTitleLine) {
     this.rootView = rootView;
     this.brandScResult = brandScResult;
-    this.indexBar = indexBar;
     this.ivBack = ivBack;
     this.pbLoading = pbLoading;
     this.rvBrandList = rvBrandList;
     this.tvLoading = tvLoading;
-    this.tvSearchCenter = tvSearchCenter;
     this.tvSelect = tvSelect;
     this.tvTitle = tvTitle;
     this.vTitleLine = vTitleLine;
@@ -105,12 +95,6 @@ public final class ActivityBrandListBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.index_bar;
-      IndexBar indexBar = ViewBindings.findChildViewById(rootView, id);
-      if (indexBar == null) {
-        break missingId;
-      }
-
       id = R.id.iv_back;
       ImageView ivBack = ViewBindings.findChildViewById(rootView, id);
       if (ivBack == null) {
@@ -135,12 +119,6 @@ public final class ActivityBrandListBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.tv_search_center;
-      TextView tvSearchCenter = ViewBindings.findChildViewById(rootView, id);
-      if (tvSearchCenter == null) {
-        break missingId;
-      }
-
       id = R.id.tv_select;
       TextView tvSelect = ViewBindings.findChildViewById(rootView, id);
       if (tvSelect == null) {
@@ -159,8 +137,8 @@ public final class ActivityBrandListBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityBrandListBinding((ConstraintLayout) rootView, brandScResult, indexBar,
-          ivBack, pbLoading, rvBrandList, tvLoading, tvSearchCenter, tvSelect, tvTitle, vTitleLine);
+      return new ActivityBrandListBinding((ConstraintLayout) rootView, brandScResult, ivBack,
+          pbLoading, rvBrandList, tvLoading, tvSelect, tvTitle, vTitleLine);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

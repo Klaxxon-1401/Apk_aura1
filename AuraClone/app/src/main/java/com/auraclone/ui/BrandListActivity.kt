@@ -22,7 +22,7 @@ class BrandListActivity : AppCompatActivity() {
     private lateinit var searchView: androidx.appcompat.widget.SearchView
     private lateinit var progressBar: View
     private lateinit var loadingText: View
-    private lateinit var indexBar: IndexBar
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,12 +35,11 @@ class BrandListActivity : AppCompatActivity() {
         searchView = findViewById(R.id.brand_sc_result)
         progressBar = findViewById(R.id.pb_loading)
         loadingText = findViewById(R.id.tv_loading)
-        indexBar = findViewById(R.id.index_bar)
 
         // Setup RecyclerView
         adapter = BrandAdapter { brand ->
-            // Navigate to device list
-            val intent = Intent(this, DeviceListActivity::class.java)
+            // Navigate to appliance selection
+            val intent = Intent(this, ApplianceSelectionActivity::class.java)
             intent.putExtra("brand", brand)
             startActivity(intent)
         }
@@ -74,7 +73,7 @@ class BrandListActivity : AppCompatActivity() {
                 progressBar.visibility = View.VISIBLE
                 loadingText.visibility = View.VISIBLE
                 recyclerView.visibility = View.GONE
-                indexBar.visibility = View.GONE
+
 
                 withContext(Dispatchers.IO) {
                     irRepository.loadData()
@@ -86,7 +85,7 @@ class BrandListActivity : AppCompatActivity() {
                 progressBar.visibility = View.GONE
                 loadingText.visibility = View.GONE
                 recyclerView.visibility = View.VISIBLE
-                indexBar.visibility = View.VISIBLE
+
 
             } catch (e: Exception) {
                 e.printStackTrace()

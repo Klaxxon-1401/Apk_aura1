@@ -41,8 +41,8 @@ class DeviceListActivity : AppCompatActivity() {
         val progressBar = findViewById<View>(R.id.pb_loading)
         val loadingText = findViewById<View>(R.id.tv_loading)
 
-        // Hide index bar for device list
-        findViewById<com.payne.okux.view.widget.IndexBar>(R.id.index_bar).visibility = View.GONE
+        // Hide index bar for device list - REMOVED as it is gone from layout
+        // findViewById<com.payne.okux.view.widget.IndexBar>(R.id.index_bar).visibility = View.GONE
 
         // Setup RecyclerView
         adapter = DeviceAdapter(brand) { device ->
@@ -110,7 +110,7 @@ class DeviceAdapter(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DeviceViewHolder {
         val view = LayoutInflater.from(parent.context)
-            .inflate(android.R.layout.simple_list_item_1, parent, false)
+            .inflate(R.layout.item_brand, parent, false)
         return DeviceViewHolder(view)
     }
 
@@ -133,7 +133,7 @@ class DeviceAdapter(
     }
 
     inner class DeviceViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        private val textView: TextView = itemView.findViewById(android.R.id.text1)
+        private val textView: TextView = itemView.findViewById(R.id.tv_brand_name)
 
         fun bind(device: String) {
             textView.text = device

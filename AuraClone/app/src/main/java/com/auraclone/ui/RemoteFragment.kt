@@ -41,6 +41,11 @@ class RemoteFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        
+        // Setup Add Remote button
+        view.findViewById<View>(R.id.btn_add_remote)?.setOnClickListener {
+            (activity as? HomeActivity)?.navigateToBrandList()
+        }
 
         // Load data
         loadRemotes()

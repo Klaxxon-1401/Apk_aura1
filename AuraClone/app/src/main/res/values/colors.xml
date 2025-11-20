@@ -1,32 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="aura_gradient_end">#F00</color>
-    <color name="aura_gradient_mid">#F00</color>
-    <color name="aura_gradient_start">#F00</color>
-    <color name="dark_orange">#F00</color>
-    <color name="orange">#F00</color>
-    <color name="btn_gray">#F00</color>
-    <color name="dark_black">#F00</color>
-    <color name="black_title">#F00</color>
-    <color name="color_FA9">#F00</color>
-    <color name="color_E35">#F00</color>
-    <color name="light_frame">#F00</color>
-    <color name="teal_300">#F00</color>
+    <!-- Primary Colors -->
+    <color name="purple_200">#ff55d69b</color>
+    <color name="purple_500">#ff0f5132</color>
+    <color name="purple_700">#ff03150c</color>
+    <color name="teal_200">#ff19c287</color>
+    <color name="teal_700">#ff0b5234</color>
+    
+    <!-- Base Colors -->
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black_title">#ff030303</color>
+    
+    <!-- Aura Gradient Colors -->
+    <color name="aura_gradient_start">#ff0e2a1c</color>
+    <color name="aura_gradient_mid">#ff1fb978</color>
+    <color name="aura_gradient_end">#ff000000</color>
+    
+    <!-- Accent Colors -->
+    <color name="light_blue">#ff69d89e</color>
+    <color name="normal_blue">#ff17c964</color>
+    <color name="teal_300">#ff2fe39a</color>
+    
+    <!-- Button Colors -->
+    <color name="btn_gray">#ff1f5c40</color>
+    <color name="btn_light_gray">#ff3a7a56</color>
+    
+    <!-- Background Colors -->
+    <color name="very_light">#ff0b1a13</color>
+    <color name="very_light_frame">#ff11281c</color>
+    <color name="dark_black">#ff393739</color>
+    <color name="dark_gray">#ff4a4a4a</color>
+    
+    <!-- Line Colors -->
+    <color name="line_gray">#6624a06a</color>
+    <color name="line_very_gray">#66263a2f</color>
+    <color name="light_frame">#ffe0e4e8</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#ffffffff</color>
+    <color name="text_secondary">#b3ffffff</color>
+    <color name="text_dark">#ff393739</color>
+    
+    <!-- Button State Colors -->
+    <color name="btn_normal">#ff2a5c45</color>
+    <color name="btn_pressed">#ff1fb978</color>
+    <color name="btn_disabled">#66393739</color>
+    
+    <!-- Transparent Colors -->
+    <color name="color_transparency">#00ffffff</color>
+    <color name="semi_transparent_black">#99000000</color>
+    
+    <!-- Orange Colors (from original app) -->
+    <color name="orange">#ffff7f24</color>
+    <color name="dark_orange">#ffe35753</color>
+    <color name="color_FA9">#fffa933a</color>
+    <color name="color_E35">#ffe35753</color>
+    
+    <!-- Switch/Material Design Colors (from original app) -->
     <color name="ksw_md_solid_shadow">#33000000</color>
-    <color name="ksw_md_solid_checked_disable">#AAAAAA</color>
-    <color name="ksw_md_solid_disable">#AAAAAA</color>
+    <color name="ksw_md_solid_checked">#ff019285</color>
+    <color name="ksw_md_solid_checked_disable">#ffaaaaaa</color>
+    <color name="ksw_md_solid_disable">#ffffffff</color>
+    <color name="ksw_md_solid_normal">#ffececec</color>
     <color name="ksw_md_ripple_checked">#33019285</color>
     <color name="ksw_md_ripple_normal">#1e000000</color>
-    <color name="ksw_md_solid_checked">#ff019285</color>
-    <color name="ksw_md_solid_normal">#ffececec</color>
-    <color name="btn_light_gray">#ffbdd0e3</color>
+    
+    <!-- Picker View Colors (from original app) -->
     <color name="pickerview_timebtn_nor">#ff057dff</color>
     <color name="pickerview_timebtn_pre">#ffc2daf5</color>
 </resources>
+
+

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/very_light"
+    android:padding="16dp">
+
+    <!-- Power Button (Top Left) -->
+    <ImageView
+        android:id="@+id/iv_power"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:contentDescription="Power"
+        android:padding="18dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_power_switch"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white" />
+
+    <!-- AV Button (Top Right) -->
+    <TextView
+        android:id="@+id/tv_tv_av"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="@string/tv_av"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/iv_power" />
+
+    <!-- D-Pad Navigation Circle Background -->
+    <View
+        android:id="@+id/iv_select_key_bg"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:background="@drawable/btn_circle_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.15" />
+
+    <!-- D-Pad Up -->
+    <ImageView
+        android:id="@+id/iv_key_up"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:contentDescription="Up"
+        android:padding="12dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_direction_3"
+        app:layout_constraintBottom_toTopOf="@id/iv_key_ok"
+        app:layout_constraintEnd_toEndOf="@id/iv_select_key_bg"
+        app:layout_constraintStart_toStartOf="@id/iv_select_key_bg"
+        app:tint="@color/white" />
+
+    <!-- D-Pad Left -->
+    <ImageView
+        android:id="@+id/iv_key_left"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:contentDescription="Left"
+        android:padding="12dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_direction_1"
+        app:layout_constraintBottom_toBottomOf="@id/iv_select_key_bg"
+        app:layout_constraintEnd_toStartOf="@id/iv_key_ok"
+        app:layout_constraintTop_toTopOf="@id/iv_select_key_bg"
+        app:tint="@color/white" />
+
+    <!-- D-Pad OK (Center) -->
+    <ImageView
+        android:id="@+id/iv_key_ok"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/btn_background_selector"
+        android:contentDescription="OK"
+        android:padding="30dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_ok"
+        app:layout_constraintBottom_toBottomOf="@id/iv_select_key_bg"
+        app:layout_constraintEnd_toEndOf="@id/iv_select_key_bg"
+        app:layout_constraintStart_toStartOf="@id/iv_select_key_bg"
+        app:layout_constraintTop_toTopOf="@id/iv_select_key_bg"
+        app:tint="@color/white" />
+
+    <!-- D-Pad Right -->
+    <ImageView
+        android:id="@+id/iv_key_right"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:contentDescription="Right"
+        android:padding="12dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_direction_2"
+        app:layout_constraintBottom_toBottomOf="@id/iv_select_key_bg"
+        app:layout_constraintStart_toEndOf="@id/iv_key_ok"
+        app:layout_constraintTop_toTopOf="@id/iv_select_key_bg"
+        app:tint="@color/white" />
+
+    <!-- D-Pad Down -->
+    <ImageView
+        android:id="@+id/iv_key_down"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:contentDescription="Down"
+        android:padding="12dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_direction_4"
+        app:layout_constraintEnd_toEndOf="@id/iv_select_key_bg"
+        app:layout_constraintStart_toStartOf="@id/iv_select_key_bg"
+        app:layout_constraintTop_toBottomOf="@id/iv_key_ok"
+        app:tint="@color/white" />
+
+    <!-- Volume Control (Left Side) -->
+    <LinearLayout
+        android:id="@+id/layout_volume"
+        android:layout_width="70dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.54">
+
+        <ImageButton
+            android:id="@+id/iv_vol_up"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Volume Up"
+            android:padding="16dp"
+            android:scaleType="centerInside"
+            android:src="@mipmap/icon_btn_plus"
+            app:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/tv_volume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/volume"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/iv_vol_down"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Volume Down"
+            android:padding="16dp"
+            android:scaleType="centerInside"
+            android:src="@mipmap/icon_btn_reduce"
+            app:tint="@color/white" />
+    </LinearLayout>
+
+    <!-- Channel Control (Right Side) -->
+    <LinearLayout
+        android:id="@+id/layout_channel"
+        android:layout_width="70dp"
+        android:layout_height="160dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@id/layout_volume"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/layout_volume">
+
+        <ImageView
+            android:id="@+id/iv_channel_up"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:contentDescription="Channel Up"
+            android:padding="16dp"
+            android:scaleType="centerInside"
+            android:src="@mipmap/icon_btn_plus"
+            app:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/tv_channel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/program"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv_channel_down"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:contentDescription="Channel Down"
+            android:padding="16dp"
+            android:scaleType="centerInside"
+            android:src="@mipmap/icon_btn_reduce"
+            app:tint="@color/white" />
+    </LinearLayout>
+
+    <!-- Bottom Row: Menu, Back, Mute -->
+    <TextView
+        android:id="@+id/tv_menu"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="@string/KeyType_menu"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/tv_123"
+        app:layout_constraintStart_toStartOf="@id/layout_volume"
+        app:layout_constraintTop_toBottomOf="@id/layout_volume" />
+
+    <TextView
+        android:id="@+id/tv_back"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="@string/KeyType_back"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/tv_menu"
+        app:layout_constraintEnd_toStartOf="@id/iv_mute"
+        app:layout_constraintStart_toEndOf="@id/tv_menu"
+        app:layout_constraintTop_toTopOf="@id/tv_menu" />
+
+    <ImageView
+        android:id="@+id/iv_mute"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:contentDescription="Mute"
+        android:padding="18dp"
+        android:scaleType="centerInside"
+        android:src="@mipmap/icon_btn_mute"
+        app:layout_constraintBottom_toBottomOf="@id/tv_menu"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_menu"
+        app:tint="@color/white" />
+
+    <!-- Bottom Row 2: 123, Exit, More -->
+    <TextView
+        android:id="@+id/tv_123"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="@string/num_123"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@id/tv_menu"
+        app:layout_constraintTop_toBottomOf="@id/tv_menu" />
+
+    <TextView
+        android:id="@+id/tv_quit"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="@string/quit"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/tv_123"
+        app:layout_constraintEnd_toStartOf="@id/iv_more"
+        app:layout_constraintStart_toEndOf="@id/tv_123"
+        app:layout_constraintTop_toTopOf="@id/tv_123" />
+
+    <TextView
+        android:id="@+id/iv_more"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/btn_circle_bg"
+        android:gravity="center"
+        android:text="⋯"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@id/tv_123"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_123" />
+
+    <!-- Logo/Branding -->
+    <TextView
+        android:id="@+id/logo_txt_subTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:alpha="0.7"
+        android:gravity="center"
+        android:text="@string/elk_logo_title"
+        android:textColor="#ffb7c2ce"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

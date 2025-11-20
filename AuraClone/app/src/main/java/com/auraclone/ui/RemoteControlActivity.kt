@@ -7,6 +7,7 @@ import android.widget.GridLayout
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import com.auraclone.R
 import com.auraclone.data.IrRepository
@@ -24,7 +25,7 @@ class RemoteControlActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.remote_fragment)
+        setContentView(R.layout.activity_remote_control)
 
         brand = intent.getStringExtra("brand") ?: ""
         device = intent.getStringExtra("device") ?: ""
@@ -41,7 +42,7 @@ class RemoteControlActivity : AppCompatActivity() {
         }
 
         // Load and display remote buttons
-        // loadRemoteButtons()
+        loadRemoteButtons()
     }
 
     private fun loadRemoteButtons() {
@@ -52,7 +53,7 @@ class RemoteControlActivity : AppCompatActivity() {
                 }
 
                 val functions = irRepository.getFunctionsForDevice(brand, device)
-                // displayButtons(functions)
+                displayButtons(functions)
 
             } catch (e: Exception) {
                 e.printStackTrace()
@@ -62,26 +63,27 @@ class RemoteControlActivity : AppCompatActivity() {
     }
 
     private fun displayButtons(functions: List<String>) {
-        // val gridLayout = findViewById<GridLayout>(R.id.remote_grid) ?: return
-        // gridLayout.removeAllViews()
+        val gridLayout = findViewById<GridLayout>(R.id.remote_grid) ?: return
+        gridLayout.removeAllViews()
 
-        // // Add buttons for each function
-        // functions.forEach { function ->
-        //     val button = Button(this).apply {
-        //         text = function
-        //         layoutParams = GridLayout.LayoutParams().apply {
-        //             width = 0
-        //             height = GridLayout.LayoutParams.WRAP_CONTENT
-        //             columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f)
-        //             rowSpec = GridLayout.spec(GridLayout.UNDEFINED)
-        //             setMargins(8, 8, 8, 8)
-        //         }
-        //         setOnClickListener {
-        //             transmitCode(function)
-        //         }
-        //     }
-        //     gridLayout.addView(button)
-        // }
+        // Add buttons for each function
+        functions.forEach { function ->
+            val button = Button(this).apply {
+                text = function
+                background = ContextCompat.getDrawable(this@RemoteControlActivity, R.drawable.remote_button_background)
+                layoutParams = GridLayout.LayoutParams().apply {
+                    width = 0
+                    height = GridLayout.LayoutParams.WRAP_CONTENT
+                    columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f)
+                    rowSpec = GridLayout.spec(GridLayout.UNDEFINED)
+                    setMargins(8, 8, 8, 8)
+                }
+                setOnClickListener {
+                    transmitCode(function)
+                }
+            }
+            gridLayout.addView(button)
+        }
     }
 
     private fun transmitCode(function: String) {
@@ -98,4 +100,3 @@ class RemoteControlActivity : AppCompatActivity() {
         }
     }
 }
-
